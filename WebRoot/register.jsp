@@ -4,7 +4,7 @@
     <title>¡Ù—‘∞Â</title>
   </head>
   <body>
-    <form action="RegisterServlet" method="post">
+    <form action="registerServlet" method="post">
     	<table>
     		<caption>”√ªß◊¢≤·</caption>
     		<tr>

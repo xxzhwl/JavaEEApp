@@ -6,7 +6,7 @@
   
   <body>
     <center>
-    	<form action="AddServlet" method="post">
+    	<form action="addServlet" method="post">
     		<table border="1">
     			<caption>ÃÓ–¥¡Ù—‘–≈œ¢</caption>
     			<tr>

@@ -5,7 +5,7 @@
   </head>
   
   <body>
-    <form action="MainServlet" method="post">
+    <form action="mainServlet" method="post">
     	<table>
     		<caption>ÓÃ»§µÇÂ¼</caption>
     		<tr>
