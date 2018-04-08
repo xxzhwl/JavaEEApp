@@ -4,6 +4,13 @@ public class User {
 	private String name;
 	private String password;
 	private int age;
+	private String tel;
+	public String getTel() {
+		return tel;
+	}
+	public void setTel(String tel) {
+		this.tel = tel;
+	}
 	public String getName() {
 		return name;
 	}
